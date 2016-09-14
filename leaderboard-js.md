@@ -69,9 +69,3 @@ information:
 - Team's total number of wins and losses
 - Details of each game the team has played (including the name of the opposing
   team and the score for each team)
-
-### Stretch Goal #3: Write Tests!
-
-Using your knowledge of testing with the
-[Jasmine framework](http://jasmine.github.io/),
-write tests for your Javascript objects.
